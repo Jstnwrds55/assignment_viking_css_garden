@@ -1,14 +1,31 @@
 html, body {
-      background-color: #555866;
-      text-align: center;
+    background-color: #555866;
+    text-align: center;
 }
 
 h1, h2 {
-   color: #798CE6;
+    color: #798CE6;
+}
+
+h1 {	
+    border-bottom: 3px solid #798ce6;
+    border-top: 3px solid #798ce6;
+    padding: 5px 0 5px 0;
+    margin-bottom: 5px;
+   
 }
 
 p {
-  color: #C1C8EA;
+    color: #C1C8EA;
+}
+
+li {
+    list-style-type: none;
+    font-decoration: none;
+}
+
+a {
+    color: #798ce6;
 }
 
 

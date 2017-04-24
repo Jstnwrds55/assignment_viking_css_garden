@@ -1,6 +1,16 @@
-/* ----------------------------------- *
- * Your Styles Here
- * ----------------------------------- */
+html, body {
+      background-color: #555866;
+      text-align: center;
+}
+
+h1, h2 {
+   color: #798CE6;
+}
+
+p {
+  color: #C1C8EA;
+}
+
 
 
 
