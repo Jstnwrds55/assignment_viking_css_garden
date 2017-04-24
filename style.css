@@ -1,7 +1,16 @@
-/* ----------------------------------- *
- * Your Styles Here
- * ----------------------------------- */
+html, body {
+      background-color: #555866;
+      text-align: center;
+      display: flex;
+}
 
+h1, h2 {
+   color: #798CE6;
+}
+
+li {
+   display: inline-block;
+}
 
 
 
