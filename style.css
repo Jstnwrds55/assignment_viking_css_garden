@@ -19,6 +19,10 @@ p {
     color: #C1C8EA;
 }
 
+ul {
+    padding: none;
+}
+
 li {
     list-style-type: none;
     font-decoration: none;
